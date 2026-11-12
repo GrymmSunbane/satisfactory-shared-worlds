@@ -1,0 +1,20 @@
+{
+  "createdAt": "2026-11-12T16:05:46.408Z",
+  "gameBuild": "517554",
+  "gamePhase": "Construction Dock",
+  "generation": 3,
+  "mapName": "Persistent_Level",
+  "modVersion": "",
+  "number": 105,
+  "object": "41af2bb6b817942821348ba5e902fbc0a85c180df7ef78c0482fd61a1cde573b",
+  "playDurationSeconds": 3839796,
+  "previousRevision": 104,
+  "reason": "autosave",
+  "size": 2669555,
+  "uploader": {
+    "displayName": "grymmsunbane666",
+    "installId": "348E694C-4FD2-B236-0317-9FBBC6BAED71",
+    "platform": "None",
+    "playerId": "df20d711f70f4f16a2eb9f188a2320b0|000257344c1c479ebc0340cb4a877af7"
+  }
+}
