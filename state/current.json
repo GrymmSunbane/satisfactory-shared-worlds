@@ -35,7 +35,7 @@
   "lease": {
     "acquiredAt": "2026-11-12T05:45:35.153Z",
     "baseRevision": 148,
-    "expiresAt": "2026-11-12T22:56:39.179Z",
+    "expiresAt": "2026-11-12T22:56:57.302Z",
     "generation": 3,
     "holder": {
       "displayName": "grymmsunbane666",
@@ -50,7 +50,7 @@
       "value": "Steam://f63340c800008601"
     },
     "nonce": "29604a72c180de5f269246eae4a12347",
-    "phase": "SAVING",
+    "phase": "HOSTING",
     "players": [
       {
         "displayName": "grymmsunbane666",
@@ -58,10 +58,10 @@
         "playerId": "76561198115452801"
       }
     ],
-    "renewedAt": "2026-11-12T22:55:54.179Z"
+    "renewedAt": "2026-11-12T22:56:12.302Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 2320,
-  "updatedAt": "2026-11-12T22:56:00.196Z",
+  "stateVersion": 2321,
+  "updatedAt": "2026-11-12T22:56:12.302Z",
   "worldId": "build-it-please-128995"
 }
