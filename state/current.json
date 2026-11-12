@@ -35,7 +35,7 @@
   "lease": {
     "acquiredAt": "2026-11-12T01:43:25.420Z",
     "baseRevision": 30,
-    "expiresAt": "2026-11-12T04:51:27.120Z",
+    "expiresAt": "2026-11-12T04:51:47.253Z",
     "generation": 2,
     "holder": {
       "displayName": "grymmsunbane666",
@@ -58,10 +58,10 @@
         "playerId": "76561198115452801"
       }
     ],
-    "renewedAt": "2026-11-12T04:50:42.120Z"
+    "renewedAt": "2026-11-12T04:51:02.253Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 379,
-  "updatedAt": "2026-11-12T04:50:42.120Z",
+  "stateVersion": 380,
+  "updatedAt": "2026-11-12T04:51:02.253Z",
   "worldId": "build-it-please-128995"
 }
