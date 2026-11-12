@@ -20,27 +20,20 @@
       "playerId": "df20d711f70f4f16a2eb9f188a2320b0|000257344c1c479ebc0340cb4a877af7"
     }
   },
-  "lastSession": null,
-  "lease": {
-    "acquiredAt": "2026-11-12T01:39:56.345Z",
-    "baseRevision": 1,
-    "expiresAt": "2026-11-12T01:40:48.079Z",
+  "lastSession": {
+    "endedAt": "2026-11-12T01:40:06.114Z",
     "generation": 1,
-    "holder": {
+    "host": {
       "displayName": "grymmsunbane666",
       "installId": "348E694C-4FD2-B236-0317-9FBBC6BAED71",
       "platform": "None",
       "playerId": "df20d711f70f4f16a2eb9f188a2320b0|000257344c1c479ebc0340cb4a877af7"
     },
-    "hostReady": false,
-    "join": null,
-    "nonce": "554150dd16e27d7d82649c4302cee63b",
-    "phase": "PREPARING",
-    "players": [],
-    "renewedAt": "2026-11-12T01:40:03.079Z"
+    "reason": "released"
   },
+  "lease": null,
   "schemaVersion": 2,
-  "stateVersion": 3,
-  "updatedAt": "2026-11-12T01:40:03.079Z",
+  "stateVersion": 4,
+  "updatedAt": "2026-11-12T01:40:06.114Z",
   "worldId": "build-it-please-fcb798"
 }
