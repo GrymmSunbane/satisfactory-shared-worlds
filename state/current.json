@@ -1,5 +1,5 @@
 {
-  "generation": 2,
+  "generation": 3,
   "handoff": null,
   "head": {
     "createdAt": "2026-11-12T05:40:14.919Z",
@@ -22,46 +22,36 @@
     }
   },
   "lastSession": {
-    "endedAt": "2026-11-12T01:39:17.989Z",
-    "generation": 1,
+    "endedAt": "2026-11-12T05:41:38.281Z",
+    "generation": 2,
     "host": {
       "displayName": "grymmsunbane666",
       "installId": "348E694C-4FD2-B236-0317-9FBBC6BAED71",
       "platform": "None",
       "playerId": "df20d711f70f4f16a2eb9f188a2320b0|000257344c1c479ebc0340cb4a877af7"
     },
-    "reason": "released"
+    "reason": "expired"
   },
   "lease": {
-    "acquiredAt": "2026-11-12T01:43:25.420Z",
+    "acquiredAt": "2026-11-12T05:45:35.153Z",
     "baseRevision": 35,
-    "expiresAt": "2026-11-12T05:41:38.281Z",
-    "generation": 2,
+    "expiresAt": "2026-11-12T05:46:20.153Z",
+    "generation": 3,
     "holder": {
       "displayName": "grymmsunbane666",
       "installId": "348E694C-4FD2-B236-0317-9FBBC6BAED71",
       "platform": "None",
       "playerId": "df20d711f70f4f16a2eb9f188a2320b0|000257344c1c479ebc0340cb4a877af7"
     },
-    "hostReady": true,
-    "join": {
-      "backend": "",
-      "kind": "online-session-id",
-      "value": "Steam://f8d971c700008601"
-    },
-    "nonce": "5e76599db48a7d49447ac2bfa5f00419",
-    "phase": "HOSTING",
-    "players": [
-      {
-        "displayName": "grymmsunbane666",
-        "installId": "",
-        "playerId": "76561198115452801"
-      }
-    ],
-    "renewedAt": "2026-11-12T05:40:53.281Z"
+    "hostReady": false,
+    "join": null,
+    "nonce": "29604a72c180de5f269246eae4a12347",
+    "phase": "PREPARING",
+    "players": [],
+    "renewedAt": "2026-11-12T05:45:35.153Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 457,
-  "updatedAt": "2026-11-12T05:40:53.281Z",
+  "stateVersion": 458,
+  "updatedAt": "2026-11-12T05:45:35.153Z",
   "worldId": "build-it-please-128995"
 }
