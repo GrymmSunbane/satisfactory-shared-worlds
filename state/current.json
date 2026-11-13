@@ -2,18 +2,18 @@
   "generation": 3,
   "handoff": null,
   "head": {
-    "createdAt": "2026-11-13T02:10:49.396Z",
+    "createdAt": "2026-11-13T02:40:49.282Z",
     "gameBuild": "517554",
     "gamePhase": "Construction Dock",
     "generation": 3,
     "mapName": "Persistent_Level",
     "modVersion": "",
-    "number": 173,
-    "object": "610dd6b4ed0ec12c11ca886d3de75819f0de63233297771e66692cbcd63a90eb",
-    "playDurationSeconds": 3875849,
-    "previousRevision": 172,
+    "number": 174,
+    "object": "6ab6988762fedfda31a25c3d9d2ec1428956769df328690d588ac752b138ff33",
+    "playDurationSeconds": 3877637,
+    "previousRevision": 173,
     "reason": "autosave",
-    "size": 2710902,
+    "size": 2710656,
     "uploader": {
       "displayName": "grymmsunbane666",
       "installId": "348E694C-4FD2-B236-0317-9FBBC6BAED71",
@@ -34,8 +34,8 @@
   },
   "lease": {
     "acquiredAt": "2026-11-12T05:45:35.153Z",
-    "baseRevision": 173,
-    "expiresAt": "2026-11-13T02:41:19.309Z",
+    "baseRevision": 174,
+    "expiresAt": "2026-11-13T02:41:37.982Z",
     "generation": 3,
     "holder": {
       "displayName": "grymmsunbane666",
@@ -58,10 +58,10 @@
         "playerId": "76561198115452801"
       }
     ],
-    "renewedAt": "2026-11-13T02:40:34.309Z"
+    "renewedAt": "2026-11-13T02:40:52.982Z"
   },
   "schemaVersion": 2,
-  "stateVersion": 2725,
-  "updatedAt": "2026-11-13T02:40:34.309Z",
+  "stateVersion": 2726,
+  "updatedAt": "2026-11-13T02:40:52.982Z",
   "worldId": "build-it-please-128995"
 }
